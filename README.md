@@ -70,7 +70,4 @@ Follow these simple steps to run the project locally 👇
 
 ### 👨‍💻 Akshay Pratap Singh
 ### 🎓 B.Tech CSE (AIML) | NIET, Greater Noida
-
---
-
-## ⭐ Don’t forget to star this repository if you like it!
+### ⭐ Don’t forget to star this repository if you like it!
